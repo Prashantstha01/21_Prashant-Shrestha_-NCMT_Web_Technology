@@ -52,3 +52,30 @@ the DNS server fails to respond correctly or cannot resolve the domain name, res
 the DNS lookup process and connnects directly to Google's server. This cofirms that  the Internet connection and the web server are working properly. Therefore, the underlying technology that failed is the Domain Name System(DNS),
 not the Internet connection or the web server.
 
+
+10. Network type for sharing sensitive data
+-> The company should use an Extranet to share sensitive data securely with its suppliers.
+An Extranet is a private network that allows controlled access to authorized external users, such as suppliers, partners, 
+or vendors. It is an extension of a company’s Intranet, but access is restricted using authentication methods like usernames,
+passwords, and sometimes VPNs.
+In this scenario, the data is confidential and sensitive, so it should not be available to the general public. At the same time,
+it needs to be shared with selected suppliers. An Extranet is ideal because it ensures data security while enabling safe collaboration.
+
+Using an Extranet provides several benefits:
+
+- Only authorized suppliers can access the data
+
+- Data remains secure and protected
+
+- Better control over information sharing
+
+- Improved communication and coordination with suppliers
+
+Unlike the Internet, which is public, or an Intranet, which is limited to internal employees, an Extranet offers the perfect
+balance between accessibility and security.
+
+Therefore, for sharing sensitive company data with trusted suppliers, an Extranet is the most appropriate and secure network type.
+
+                                                
+                                                
+                                                ------End of Assignment 1-----
