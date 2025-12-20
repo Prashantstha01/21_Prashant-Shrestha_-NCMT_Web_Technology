@@ -1,0 +1,38 @@
+WEB TECHNOLOGY
+ Name : Prashant Shrestha  Date: 20 December, 2025
+ Roll no: 21
+             
+
+         Chapter 1: AN OVERVIEW OF THE INTERNET AND THE WEB
+Group A : Short Quenstions (2 Markss)
+
+1. Define the term ”Protocol” in the context of the Internet?
+Ans: A protocol is a set of agreed rules that computers follow to communicate with each other.
+ 
+2. What is the primary difference between a Web Browser and a Search Engine?
+Ans: The primary difference between a Web Browser and a Search engine is :
+    . Web Browser (The Tool): This essentially refers to the software that has been installed in your device (such as Chrome or Firefox) that helps in the retrieval of web pages from the server.
+    . Search Engine (The Service): A web service such as Google or Bing that is browsed by a user through a web browser in order to look for related information or websites by key words. 
+
+3. Define the World Wide Web (WWW)?
+Ans: WWW is a global system of interlinked web pages which can be used over a internet using web browser. 
+
+4.Distinguish between a static web page and a dynamic web page?
+Ans: Difference between a static web page and a dynamic web page is :
+    . Static web page are the simplest types of pages. The content is "fixed" in a flat file and looks exactly the same to every visitor. They are fast but not interactive.
+    . Dynamic web page is a website component that generates unique, real-time content for each visitor, changing based on user interaction, location, time, or data from a database. 
+
+Group B: Long Questions (4 Marks)
+
+5. Explain the client-server architecture of the web with a neat diagram? 
+Ans.
+
+6.Describe the functions of the following Internet services: Email, FTP, and VoIP.
+Ans. 
+
+7."The Internet is a network of networks." Elaborate on this statement explaining how packet switching works.
+Ans.
+
+
+
+
