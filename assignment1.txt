@@ -40,7 +40,5 @@ Ans. The function of the following are:
 7."The Internet is a network of networks." Elaborate on this statement explaining how packet switching works.
 Ans. The Internet is called a network of networks because it is not a single network. Instead, it is a global system made by connecting thousands of smaller networks (like LANs, WANs, ISPs, and private networks) so that devices worldwide can communicate with each other.Each network can have its own hardware, protocols, and administration, but they all follow common Internet standards (TCP/IP) to communicate. Example: Your home network connects to your ISP’s network, which connects to other ISPs, universities, or corporate networks, forming the Internet.
 
-;kljwedfgjlkdfgj
-
 
 
