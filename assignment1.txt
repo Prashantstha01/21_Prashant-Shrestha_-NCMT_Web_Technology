@@ -53,29 +53,7 @@ the DNS lookup process and connnects directly to Google's server. This cofirms t
 not the Internet connection or the web server.
 
 
-10. Network type for sharing sensitive data
--> The company should use an Extranet to share sensitive data securely with its suppliers.
-An Extranet is a private network that allows controlled access to authorized external users, such as suppliers, partners, 
-or vendors. It is an extension of a company’s Intranet, but access is restricted using authentication methods like usernames,
-passwords, and sometimes VPNs.
-In this scenario, the data is confidential and sensitive, so it should not be available to the general public. At the same time,
-it needs to be shared with selected suppliers. An Extranet is ideal because it ensures data security while enabling safe collaboration.
-
-Using an Extranet provides several benefits:
-
-- Only authorized suppliers can access the data
-
-- Data remains secure and protected
-
-- Better control over information sharing
-
-- Improved communication and coordination with suppliers
-
-Unlike the Internet, which is public, or an Intranet, which is limited to internal employees, an Extranet offers the perfect
-balance between accessibility and security.
-
-Therefore, for sharing sensitive company data with trusted suppliers, an Extranet is the most appropriate and secure network type.
-
-                                                
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why?
+Ans. The Corporation should implement an Extranet. An Extranet is a private network that allows authorized external users (like customers, vendors, or partners) to access part of an organization’s internal network in a secure way. Unlike the Internet, which is open to everyone. An Extranet provides controlled access using security measures like authentication and permissions. This makes it ideal for securely sharing inventory data with specific suppliers without exposing it publicly allowing secure communication beyond the organization’s firewall. It improves efficiency, coordination, and transparency between businesses and their external stakeholders.
                                                 
                                                 ------End of Assignment 1-----
