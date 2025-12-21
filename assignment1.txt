@@ -43,7 +43,10 @@ Ans. The Internet is called a network of networks because it is not a single net
 Group C: Scenario-Based Questions (5 Marks)
 
 8. A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
-Ans. 
+Ans. As a consultant, I would not agree with the advice to use a dynamic website in this situation.
+The startup’s requirement is to display the same information to all visitors and to have very low maintenance costs. A static website is more suitable because it is simple, cost-effective, and easy to maintain. Static websites do not need a database or server-side processing, which reduces hosting and development costs. They are also faster and more secure since there are fewer components that can fail.
+Dynamic websites are useful when content needs to change frequently, be personalized for users, or interact with databases. Since the startup does not need these features, using a dynamic website would add unnecessary complexity, higher costs, and more maintenance work.
+Therefore, a static website would be the best choice for the startup at this stage, as it meets their needs efficiently and economically.
 
 9. A user types www.google.com into their browser, but the browser displays a ”Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
 Ans. The problem occurs due to the failure of the Domain Name System(DNS). DNS is the INternet service that translate human readable domain names such as www.google.com into numerical  IP addresses like
